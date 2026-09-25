@@ -1,0 +1,8 @@
+# Text file normalization
+*.yml linguist-detectable=false 
+
+dist/* linguist-vendored
+src/**/*.astro linguist-detectable
+src/*.astro linguist-detectable
+
+public/*.html linguist-vendored
